@@ -1,0 +1,39 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div>
+    <h2>Truyền dữ liệu quá ViewBag</h2>
+    <p><strong>Id:</strong> @ViewBag.productVB.Id</p>
+    <p><strong>Name:</strong> @ViewBag.productVB.ProductName</p>
+    <p><strong>Year Release:</strong> @ViewBag.productVB.YearRelease</p>
+    <p><strong>Price:</strong> @ViewBag.productVB.Price</p>
+</div>
+<div>   
+    <h2>Truyền dữ liệu quá ViewData</h2>
+    @{
+        var pro = ViewData["productVD"] as ControllerLesson2.Models.Product;
+    }
+   <p><strong>Id:</strong> @pro.Id</p>
+   <p><strong>Name:</strong> @pro.ProductName</p>
+   <p><strong>Year Release:</strong> @pro.YearRelease</p>
+   <p><strong>Price:</strong> @pro.Price</p>
+</div>
+<div>
+    <h2>Truyền dữ liệu quá TempData</h2>
+    @{
+        var proTemp = TempData["productTD"] as ControllerLesson2.Models.Product;
+    }
+    <p><strong>Id:</strong> @proTemp.Id</p>
+    <p><strong>Name:</strong> @proTemp.ProductName</p>
+    <p><strong>Year Release:</strong> @proTemp.YearRelease</p>
+    <p><strong>Price:</strong> @proTemp.Price</p>
+</div>
+<div>   
+    <h2>Truyền dữ liệu thông qua Model</h2>
+    <p><strong>Id:</strong> @Model.Id</p>
+    <p><strong>Name:</strong> @Model.ProductName</p>
+    <p><strong>Year Release:</strong> @Model.YearRelease</p>
+    <p><strong>Price:</strong> @Model.Price</p>
+</div>

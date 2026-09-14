@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\views\\shared\\_tvccategorypartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\views\\shared\\_tvccategorypartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\views\\shared\\components\\hotproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\views\\shared\\components\\hotproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\viewcomponents\\hotproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\viewcomponents\\hotproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\viewlessson3\\lesson3view\\lesson3view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35147AC-BA1B-446A-9AB8-C63DAAEE1656}|Lesson3View\\Lesson3View.csproj|solutionrelative:lesson3view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lesson3View\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lesson3View\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T14:45:24.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Lesson3View\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Lesson3View\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T14:56:50.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Lesson3View\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Lesson3View\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T14:56:34.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Lesson3View\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Lesson3View\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T14:49:06.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson3View\\Program.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Program.cs",
+              "RelativeToolTip": "Lesson3View\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T14:46:01.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Lesson3View\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Lesson3View\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-14T14:45:41.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lesson3View\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lesson3View\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T14:45:11.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lesson3View\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lesson3View\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T13:52:33.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "RelativeDocumentMoniker": "Lesson3View\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "RelativeToolTip": "Lesson3View\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T14:43:04.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotProductViewComponent.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\ViewComponents\\HotProductViewComponent.cs",
+              "RelativeDocumentMoniker": "Lesson3View\\ViewComponents\\HotProductViewComponent.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\ViewComponents\\HotProductViewComponent.cs",
+              "RelativeToolTip": "Lesson3View\\ViewComponents\\HotProductViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T14:40:23.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lesson3View\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lesson3View\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T13:53:38.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Lesson3View\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Lesson3View\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T13:53:10.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_TvcCategoryPartialView.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Shared\\_TvcCategoryPartialView.cshtml",
+              "RelativeDocumentMoniker": "Lesson3View\\Views\\Shared\\_TvcCategoryPartialView.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Views\\Shared\\_TvcCategoryPartialView.cshtml",
+              "RelativeToolTip": "Lesson3View\\Views\\Shared\\_TvcCategoryPartialView.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T13:52:52.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lesson3View\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lesson3View\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:44:08.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lesson3View\\Models\\Product.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Models\\Product.cs",
+              "RelativeToolTip": "Lesson3View\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:43:28.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lesson3View\\Models\\Category.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ViewLessson3\\Lesson3View\\Lesson3View\\Models\\Category.cs",
+              "RelativeToolTip": "Lesson3View\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:43:04.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

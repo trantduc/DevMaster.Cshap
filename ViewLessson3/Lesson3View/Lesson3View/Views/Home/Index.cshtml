@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Lesson3View.Models.Product>
+
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<div class="product-section">
+    <div class="section-title">
+        Sản phẩm mới nhất
+    </div>
+
+    <div class="row g-0">
+        @foreach (Product product in Model)
+        {
+            <div class="col-md-4">
+                <div class="product-item">
+                    <img src="@product.ImageUrl"
+                         alt="@product.Name" />
+
+                    <div class="product-name">
+                        @product.Name
+                    </div>
+
+                    <div class="product-price">
+                        @product.Price.ToString("N0") đ
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

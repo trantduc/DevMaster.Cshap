@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0" />
+
+    <title>
+        @ViewData["Title"] - Lesson3View
+    </title>
+
+    <link rel="stylesheet"
+          href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <link rel="stylesheet"
+          href="~/css/site.css"
+          asp-append-version="true" />
+
+    <link rel="stylesheet"
+          href="~/Lesson3View.styles.css"
+          asp-append-version="true" />
+</head>
+
+<body>
+    <div class="page-container">
+        <div class="top-line"></div>
+
+        <main class="row mt-2">
+            <div class="col-md-3">
+                @await Html.PartialAsync(
+                    "_TvcCategoryPartialView"
+                )
+
+                <div class="banner mt-3">
+                    <img src="~/images/banner.jpg"
+                         alt="Banner quảng cáo" />
+                </div>
+            </div>
+
+            <div class="col-md-9">
+                @RenderBody()
+
+                @await Component.InvokeAsync(
+                    "HotProduct"
+                )
+            </div>
+        </main>
+
+        <div class="bottom-line"></div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js">
+    </script>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js">
+    </script>
+
+    <script src="~/js/site.js"
+            asp-append-version="true">
+    </script>
+
+    @await RenderSectionAsync(
+        "Scripts",
+        required: false
+    )
+</body>
+</html>
