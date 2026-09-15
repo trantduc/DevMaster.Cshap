@@ -1,0 +1,48 @@
+@model ModelLesson04.Models.DataModels.TvdMember
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>TvdMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="Post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="TvdUserName" class="control-label"></label>
+                <input asp-for="TvdUserName" class="form-control" />
+                <span asp-validation-for="TvdUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TvdPassword" class="control-label"></label>
+                <input asp-for="TvdPassword" class="form-control" />
+                <span asp-validation-for="TvdPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TvdFullName" class="control-label"></label>
+                <input asp-for="TvdFullName" class="form-control" />
+                <span asp-validation-for="TvdFullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TvdEmail" class="control-label"></label>
+                <input asp-for="TvdEmail" class="form-control" />
+                <span asp-validation-for="TvdEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

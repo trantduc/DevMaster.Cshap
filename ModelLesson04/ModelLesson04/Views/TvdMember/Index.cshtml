@@ -1,0 +1,60 @@
+﻿@model IEnumerable<ModelLesson04.Models.DataModels.TvdMember>
+
+@{
+    ViewData["Title"] = "Danh sách thành viên";
+}
+
+<div class="card p-3">
+<h1>@ViewData["Title"]</h1>
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Thêm mới</a>
+    </p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TvdMemberId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TvdUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TvdPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TvdFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TvdEmail)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.TvdMemberId
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TvdUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TvdPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TvdFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TvdEmail)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+</div>

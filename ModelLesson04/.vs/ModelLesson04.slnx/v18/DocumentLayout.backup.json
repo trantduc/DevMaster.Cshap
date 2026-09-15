@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\modellesson04\\modellesson04\\controllers\\tvdmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|solutionrelative:modellesson04\\controllers\\tvdmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\modellesson04\\modellesson04\\views\\tvdmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|solutionrelative:modellesson04\\views\\tvdmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\modellesson04\\modellesson04\\views\\tvdmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|solutionrelative:modellesson04\\views\\tvdmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\modellesson04\\modellesson04\\views\\tvdmember\\getmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|solutionrelative:modellesson04\\views\\tvdmember\\getmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\modellesson04\\modellesson04\\models\\datamodels\\tvdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|solutionrelative:modellesson04\\models\\datamodels\\tvdmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\modellesson04\\modellesson04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|solutionrelative:modellesson04\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\modellesson04\\modellesson04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|solutionrelative:modellesson04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\modellesson04\\modellesson04\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|solutionrelative:modellesson04\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Views\\TvdMember\\Create.cshtml",
+              "RelativeDocumentMoniker": "ModelLesson04\\Views\\TvdMember\\Create.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Views\\TvdMember\\Create.cshtml",
+              "RelativeToolTip": "ModelLesson04\\Views\\TvdMember\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T13:50:24.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelLesson04\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelLesson04\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:41:54.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Views\\TvdMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelLesson04\\Views\\TvdMember\\Index.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Views\\TvdMember\\Index.cshtml",
+              "RelativeToolTip": "ModelLesson04\\Views\\TvdMember\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T13:21:30.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ModelLesson04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ModelLesson04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T13:07:28.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetMember.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Views\\TvdMember\\GetMember.cshtml",
+              "RelativeDocumentMoniker": "ModelLesson04\\Views\\TvdMember\\GetMember.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Views\\TvdMember\\GetMember.cshtml",
+              "RelativeToolTip": "ModelLesson04\\Views\\TvdMember\\GetMember.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T13:04:04.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ModelLesson04\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ModelLesson04\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T13:03:19.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TvdMemberController.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Controllers\\TvdMemberController.cs",
+              "RelativeDocumentMoniker": "ModelLesson04\\Controllers\\TvdMemberController.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Controllers\\TvdMemberController.cs",
+              "RelativeToolTip": "ModelLesson04\\Controllers\\TvdMemberController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T12:47:23.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TvdMember.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Models\\DataModels\\TvdMember.cs",
+              "RelativeDocumentMoniker": "ModelLesson04\\Models\\DataModels\\TvdMember.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Models\\DataModels\\TvdMember.cs",
+              "RelativeToolTip": "ModelLesson04\\Models\\DataModels\\TvdMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T12:46:30.787Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
