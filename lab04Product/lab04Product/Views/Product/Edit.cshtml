@@ -1,0 +1,67 @@
+﻿@model lab04Product.Models.Product
+
+@{
+    ViewData["Title"] = "Chỉnh sửa sản phẩm";
+}
+
+<h2>Chỉnh sửa sản phẩm</h2>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Edit" method="post" enctype="multipart/form-data">
+
+            <!-- Khoá chính Id (ẩn) -->
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="Image" /> <!-- Giữ tên ảnh cũ nếu không đổi ảnh -->
+
+            <div class="form-group mb-3">
+                <label class="control-label">Tên sản phẩm</label>
+                <input asp-for="Name" class="form-control" required />
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="control-label">Giá gốc</label>
+                <input asp-for="Price" type="number" class="form-control" required />
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="control-label">Giá khuyến mãi</label>
+                <input asp-for="SalePrice" type="number" class="form-control" />
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="control-label">Trạng thái (1: Hiển thị, 0: Ẩn)</label>
+                <input asp-for="Status" type="number" class="form-control" />
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="control-label">Ảnh hiện tại:</label><br />
+                @if (!string.IsNullOrEmpty(Model.Image))
+                {
+                    <img src="~/images/@Model.Image" width="100" class="mb-2" />
+                }
+                <br />
+                <label class="control-label">Đổi ảnh mới (nếu có)</label>
+                <input type="file" name="files" class="form-control" />
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="control-label">Danh mục</label>
+                <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId">
+                    <option value="">-- Chọn danh mục --</option>
+                </select>
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="control-label">Mô tả</label>
+                <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+            </div>
+
+            <div class="form-group mt-3">
+                <input type="submit" value="Cập nhật" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Quay lại danh sách</a>
+            </div>
+
+        </form>
+    </div>
+</div>
