@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\modellesson04\\modellesson04\\views\\tvdmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|solutionrelative:modellesson04\\views\\tvdmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\modellesson04\\modellesson04\\controllers\\tvdmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|solutionrelative:modellesson04\\controllers\\tvdmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\modellesson04\\modellesson04\\views\\tvdmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|solutionrelative:modellesson04\\views\\tvdmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\modellesson04\\modellesson04\\views\\tvdmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|solutionrelative:modellesson04\\views\\tvdmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2DCBF1A-BA59-B0F7-781F-9C67C05B9044}|ModelLesson04\\ModelLesson04.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\modellesson04\\modellesson04\\views\\tvdmember\\getmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Views\\TvdMember\\Create.cshtml",
               "RelativeDocumentMoniker": "ModelLesson04\\Views\\TvdMember\\Create.cshtml",
@@ -70,15 +70,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Views\\TvdMember\\Index.cshtml",
               "RelativeDocumentMoniker": "ModelLesson04\\Views\\TvdMember\\Index.cshtml",
               "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Views\\TvdMember\\Index.cshtml",
               "RelativeToolTip": "ModelLesson04\\Views\\TvdMember\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-15T13:21:30.571Z"
+              "WhenOpened": "2026-09-15T13:21:30.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TvdMemberController.cs",
               "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\ModelLesson04\\ModelLesson04\\Controllers\\TvdMemberController.cs",
               "RelativeDocumentMoniker": "ModelLesson04\\Controllers\\TvdMemberController.cs",
