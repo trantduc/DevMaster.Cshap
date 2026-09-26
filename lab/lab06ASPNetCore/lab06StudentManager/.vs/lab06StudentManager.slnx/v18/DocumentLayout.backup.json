@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Migrations\\20260926175902_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab06StudentManager\\Migrations\\20260926175902_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\models\\marks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\models\\marks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\models\\stdclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\models\\stdclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab06aspnetcore\\lab06studentmanager\\lab06studentmanager\\models\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE4C2B9-D96D-C109-AED0-5AB67078845B}|lab06StudentManager\\lab06StudentManager.csproj|solutionrelative:lab06studentmanager\\models\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "lab06StudentManager\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "lab06StudentManager\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T18:25:43.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "lab06StudentManager\\Views\\Students\\Details.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "lab06StudentManager\\Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T18:25:40.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "lab06StudentManager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "lab06StudentManager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T18:17:35.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab06StudentManager\\Views\\Students\\Create.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "lab06StudentManager\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T18:13:23.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab06StudentManager\\Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "lab06StudentManager\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T18:13:18.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lab06StudentManager\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lab06StudentManager\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T18:10:24.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "lab06StudentManager\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "lab06StudentManager\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAwJMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T18:09:29.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260926175902_v1.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Migrations\\20260926175902_v1.cs",
+              "RelativeDocumentMoniker": "lab06StudentManager\\Migrations\\20260926175902_v1.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Migrations\\20260926175902_v1.cs",
+              "RelativeToolTip": "lab06StudentManager\\Migrations\\20260926175902_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T17:59:02.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\appsettings.json",
+              "RelativeDocumentMoniker": "lab06StudentManager\\appsettings.json",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\appsettings.json",
+              "RelativeToolTip": "lab06StudentManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-26T17:26:58.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Program.cs",
+              "RelativeDocumentMoniker": "lab06StudentManager\\Program.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Program.cs",
+              "RelativeToolTip": "lab06StudentManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T17:11:52.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\AppDbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "lab06StudentManager\\AppDbContext\\AppDbContext.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\AppDbContext\\AppDbContext.cs",
+              "RelativeToolTip": "lab06StudentManager\\AppDbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T17:08:11.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Marks.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Models\\Marks.cs",
+              "RelativeDocumentMoniker": "lab06StudentManager\\Models\\Marks.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Models\\Marks.cs",
+              "RelativeToolTip": "lab06StudentManager\\Models\\Marks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T16:37:39.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Subjects.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Models\\Subjects.cs",
+              "RelativeDocumentMoniker": "lab06StudentManager\\Models\\Subjects.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Models\\Subjects.cs",
+              "RelativeToolTip": "lab06StudentManager\\Models\\Subjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T16:35:05.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "lab06StudentManager\\Models\\Student.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Models\\Student.cs",
+              "RelativeToolTip": "lab06StudentManager\\Models\\Student.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T16:27:25.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StdClass.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Models\\StdClass.cs",
+              "RelativeDocumentMoniker": "lab06StudentManager\\Models\\StdClass.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab06ASPNetCore\\lab06StudentManager\\lab06StudentManager\\Models\\StdClass.cs",
+              "RelativeToolTip": "lab06StudentManager\\Models\\StdClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T16:22:56.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
