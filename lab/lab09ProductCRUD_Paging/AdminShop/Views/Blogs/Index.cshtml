@@ -1,0 +1,5 @@
+@model IEnumerable<Blog>
+@{ViewData["Title"]="Blogs";}
+<h2>Blogs</h2><div class="table-wrap"><table class="table table-bordered table-hover mb-0"><thead><tr><th>Name</th><th>Status</th><th>ViewCount</th><th>CreatedDate</th><th>Description</th></tr></thead><tbody>
+@foreach(var x in Model){<tr><td>@x.Name</td><td>@x.Status</td><td>@x.ViewCount</td><td>@x.CreatedDate</td><td>@x.Description</td></tr>}
+</tbody></table></div>

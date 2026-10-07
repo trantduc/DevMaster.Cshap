@@ -1,0 +1,4 @@
+wwwroot\css\login.css
+wwwroot\css\site.css
+wwwroot\images\avatars\avtCute.jpg
+wwwroot\images\avatars\avtDuc.jpg

@@ -1,0 +1,3 @@
+@model Product
+@{ViewData["Title"]="Chi tiết sản phẩm";}
+<h2>Chi tiết sản phẩm</h2><div class="form-card"><dl class="row"><dt class="col-3">Name</dt><dd class="col-9">@Model.Name</dd><dt class="col-3">Category</dt><dd class="col-9">@Model.Category?.Name</dd><dt class="col-3">Price</dt><dd class="col-9">@Model.Price.ToString("N0")</dd><dt class="col-3">SalePrice</dt><dd class="col-9">@Model.SalePrice.ToString("N0")</dd><dt class="col-3">Status</dt><dd class="col-9">@Model.Status</dd><dt class="col-3">Description</dt><dd class="col-9">@Model.Description</dd></dl><a class="btn btn-warning" asp-action="Edit" asp-route-id="@Model.Id">Sửa</a> <a class="btn btn-secondary" asp-action="Index">Quay lại</a></div>

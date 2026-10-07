@@ -1,0 +1,76 @@
+﻿@model AdminShop.Models.Login
+
+@{
+    Layout = null;
+    ViewData["Title"] = "Đăng nhập";
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Đăng nhập</title>
+
+    <link rel="stylesheet" href="~/css/login.css" />
+</head>
+
+<body>
+
+    <div class="login-container">
+
+        <div class="login-box">
+
+            <h1 class="login-title">AdminShop</h1>
+
+            <div class="login-subtitle">
+                Đăng nhập vào hệ thống
+            </div>
+
+            @if (ViewBag.Error != null)
+            {
+                <div class="login-error">
+                    @ViewBag.Error
+                </div>
+            }
+
+            <form asp-controller="Accounts"
+                  asp-action="Login"
+                  method="post">
+
+                <div class="form-group">
+                    <label>Email</label>
+
+                    <input asp-for="Email"
+                           class="form-control"
+                           placeholder="Nhập email" />
+
+                    <span asp-validation-for="Email"
+                          class="error-message"></span>
+                </div>
+
+                <div class="form-group">
+                    <label>Mật khẩu</label>
+
+                    <input asp-for="Password"
+                           type="password"
+                           class="form-control"
+                           placeholder="Nhập mật khẩu" />
+
+                    <span asp-validation-for="Password"
+                          class="error-message"></span>
+                </div>
+
+                <button type="submit" class="login-btn">
+                    Đăng nhập
+                </button>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</body>
+</html>

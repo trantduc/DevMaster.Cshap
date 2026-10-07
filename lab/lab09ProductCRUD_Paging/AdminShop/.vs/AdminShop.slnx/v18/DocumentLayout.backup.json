@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|d:\\trung t\u00E2m devmaster\\h\u1ECDc .net\\mvc\\lab\\productcrud_paging\\adminshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3741C2A7-797E-48A9-7320-BEEF96B89C14}|AdminShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogsController.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T13:44:49.857Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswF0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T16:22:53.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Index.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T16:18:21.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-07T16:13:54.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T16:12:33.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T16:12:08.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T15:30:56.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\login.css",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "wwwroot\\css\\login.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-07T16:01:13.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T15:49:59.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Login.cshtml",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Login.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T15:43:18.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T15:31:30.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T15:15:06.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-06T13:41:15.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Trung t\u00E2m DEVMaster\\h\u1ECDc .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T13:40:43.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
