@@ -177,7 +177,7 @@ public class ProductsController : Controller
         ViewBag.CategoryId = new SelectList(_db.Categories.OrderBy(x => x.Name), "Id", "Name", selected);
     }
 
-    private async Task<string?> SaveImage(IFormFile? file)
+    private async Task<string?>SaveImage(IFormFile? file)
     {
         if (file == null || file.Length == 0)
         {

@@ -1,0 +1,121 @@
+[
+  {
+    "ContainingType": "lesson11.webAPI.Controllers.TonkhosController",
+    "Method": "GetTonkhos",
+    "RelativePath": "api/Tonkhos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[lab11.API.QLBanHang.Models.DBModel.Tonkho, lab11.API.QLBanHang, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "lesson11.webAPI.Controllers.TonkhosController",
+    "Method": "PostTonkho",
+    "RelativePath": "api/Tonkhos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tonkho",
+        "Type": "lab11.API.QLBanHang.Models.DBModel.Tonkho",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "lab11.API.QLBanHang.Models.DBModel.Tonkho",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "lesson11.webAPI.Controllers.TonkhosController",
+    "Method": "GetTonkho",
+    "RelativePath": "api/Tonkhos/{namthang}/{mavtu}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "namthang",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "mavtu",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "lab11.API.QLBanHang.Models.DBModel.Tonkho",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "lesson11.webAPI.Controllers.TonkhosController",
+    "Method": "DeleteTonkho",
+    "RelativePath": "api/Tonkhos/{namthang}/{mavtu}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "namthang",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "mavtu",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "lab11.API.QLBanHang.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[lab11.API.QLBanHang.WeatherForecast, lab11.API.QLBanHang, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

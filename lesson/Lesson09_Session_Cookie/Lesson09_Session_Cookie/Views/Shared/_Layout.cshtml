@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AdminLTE 3</title>
+    <link rel="stylesheet" href="~/css/admin.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="app-shell">
+        <aside class="sidebar">
+            <a class="brand" asp-controller="Home" asp-action="Index"><span class="brand-icon">A</span><span>AdminLTE 3</span></a>
+            <div class="user-panel"><div class="avatar">D</div><a href="#">Devmaster</a></div>
+            <nav class="side-nav">
+                <a class="active" asp-controller="Home" asp-action="Index"><span>▦</span>Trang chính</a>
+                <a href="#"><span>◧</span>Category <b>‹</b></a>
+                <a href="#"><span>◔</span>Sản phẩm <b>‹</b></a>
+                <a href="#"><span>▤</span>Blog</a>
+                <a href="#"><span>▣</span>Banner</a>
+                <a href="#"><span>▥</span>Khách hàng</a>
+                <a href="#"><span>⊞</span>Đơn hàng <b>‹</b></a>
+            </nav>
+        </aside>
+        <section class="page">
+            <header class="topbar"><div class="top-left"><button class="menu-btn">☰</button><a asp-controller="Home" asp-action="Index">Home</a><a href="#">Contact</a></div><div class="top-right"><span class="badge red">3</span><span class="badge yellow">15</span><span>⛶</span><span>▦</span></div></header>
+            <main class="content">@RenderBody()</main>
+            <footer class="footer"><span><b>Copyright © 2014-2021 <a href="#">AdminLTE.io</a>.</b> All rights reserved.</span><b>Version 3.2.0</b></footer>
+        </section>
+    </div>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

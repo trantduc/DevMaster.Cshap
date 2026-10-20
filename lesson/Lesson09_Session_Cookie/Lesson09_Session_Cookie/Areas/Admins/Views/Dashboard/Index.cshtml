@@ -1,0 +1,131 @@
+﻿@{
+    ViewData["Title"] = "Bảng điều khiển";
+    Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml"; // hoặc: "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml"
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h4 class="mb-0 fw-bold">Tổng quan hệ thống</h4>
+        <small class="text-muted">Dữ liệu được cập nhật tự động theo thời gian thực</small>
+    </div>
+    <div class="d-flex gap-2">
+        <button class="btn btn-outline-secondary btn-sm"><i class="bi bi-download me-1"></i> Xuất Excel</button>
+        <button class="btn btn-primary btn-sm"><i class="bi bi-plus-lg me-1"></i> Thêm mới</button>
+    </div>
+</div>
+
+<!-- 4 Cards Thống kê -->
+<div class="row g-3 mb-4">
+    <div class="col-12 col-sm-6 col-xl-3">
+        <div class="card stat-card shadow-sm p-3">
+            <div class="d-flex align-items-center">
+                <div class="stat-icon bg-primary-subtle text-primary me-3">
+                    <i class="bi bi-cash-stack"></i>
+                </div>
+                <div>
+                    <span class="text-muted small">Doanh thu tháng</span>
+                    <h5 class="fw-bold mb-0">128,450,000 đ</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 col-sm-6 col-xl-3">
+        <div class="card stat-card shadow-sm p-3">
+            <div class="d-flex align-items-center">
+                <div class="stat-icon bg-success-subtle text-success me-3">
+                    <i class="bi bi-cart"></i>
+                </div>
+                <div>
+                    <span class="text-muted small">Đơn hàng mới</span>
+                    <h5 class="fw-bold mb-0">1,240</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 col-sm-6 col-xl-3">
+        <div class="card stat-card shadow-sm p-3">
+            <div class="d-flex align-items-center">
+                <div class="stat-icon bg-warning-subtle text-warning me-3">
+                    <i class="bi bi-people"></i>
+                </div>
+                <div>
+                    <span class="text-muted small">Khách hàng</span>
+                    <h5 class="fw-bold mb-0">8,520</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 col-sm-6 col-xl-3">
+        <div class="card stat-card shadow-sm p-3">
+            <div class="d-flex align-items-center">
+                <div class="stat-icon bg-danger-subtle text-danger me-3">
+                    <i class="bi bi-exclamation-triangle"></i>
+                </div>
+                <div>
+                    <span class="text-muted small">Hàng cần nhập</span>
+                    <h5 class="fw-bold mb-0">18</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Bảng dữ liệu chính -->
+<div class="card shadow-sm border-0">
+    <div class="card-header bg-white py-3 d-flex justify-content-between align-items-center">
+        <h6 class="mb-0 fw-bold">Đơn hàng gần đây</h6>
+        <div class="input-group input-group-sm" style="max-width: 250px;">
+            <input type="text" class="form-control" placeholder="Tìm kiếm đơn hàng...">
+            <button class="btn btn-outline-secondary" type="button"><i class="bi bi-search"></i></button>
+        </div>
+    </div>
+    <div class="table-responsive">
+        <table class="table table-hover align-middle mb-0">
+            <thead class="table-light">
+                <tr>
+                    <th scope="col">Mã đơn</th>
+                    <th scope="col">Khách hàng</th>
+                    <th scope="col">Ngày đặt</th>
+                    <th scope="col">Tổng tiền</th>
+                    <th scope="col">Trạng thái</th>
+                    <th scope="col" class="text-end">Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>#DH-9821</strong></td>
+                    <td>Nguyễn Văn A</td>
+                    <td>06/10/2026</td>
+                    <td>1,450,000 đ</td>
+                    <td><span class="badge bg-success-subtle text-success">Đã hoàn thành</span></td>
+                    <td class="text-end">
+                        <a href="#" class="btn btn-sm btn-light border"><i class="bi bi-eye"></i></a>
+                        <a href="#" class="btn btn-sm btn-light border"><i class="bi bi-pencil"></i></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>#DH-9822</strong></td>
+                    <td>Trần Thị B</td>
+                    <td>06/10/2026</td>
+                    <td>850,000 đ</td>
+                    <td><span class="badge bg-warning-subtle text-warning">Đang xử lý</span></td>
+                    <td class="text-end">
+                        <a href="#" class="btn btn-sm btn-light border"><i class="bi bi-eye"></i></a>
+                        <a href="#" class="btn btn-sm btn-light border"><i class="bi bi-pencil"></i></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td><strong>#DH-9823</strong></td>
+                    <td>Lê Hoàng C</td>
+                    <td>05/10/2026</td>
+                    <td>3,200,000 đ</td>
+                    <td><span class="badge bg-danger-subtle text-danger">Đã hủy</span></td>
+                    <td class="text-end">
+                        <a href="#" class="btn btn-sm btn-light border"><i class="bi bi-eye"></i></a>
+                        <a href="#" class="btn btn-sm btn-light border"><i class="bi bi-pencil"></i></a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

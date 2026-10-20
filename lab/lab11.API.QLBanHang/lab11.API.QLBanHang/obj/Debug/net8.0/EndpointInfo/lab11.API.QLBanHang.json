@@ -1,0 +1,515 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "lab11.API.QLBanHang",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Tonkhos": {
+      "get": {
+        "tags": [
+          "Tonkhos"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Tonkho"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Tonkho"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Tonkho"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Tonkhos"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tonkho"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tonkho"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tonkho"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tonkho"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tonkho"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tonkho"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Tonkhos/{namthang}/{mavtu}": {
+      "get": {
+        "tags": [
+          "Tonkhos"
+        ],
+        "parameters": [
+          {
+            "name": "namthang",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "mavtu",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tonkho"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tonkho"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tonkho"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Tonkhos"
+        ],
+        "parameters": [
+          {
+            "name": "namthang",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "mavtu",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Ctdondh": {
+        "type": "object",
+        "properties": {
+          "soDh": {
+            "type": "string",
+            "nullable": true
+          },
+          "mavtu": {
+            "type": "string",
+            "nullable": true
+          },
+          "slDat": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "mavtuNavigation": {
+            "$ref": "#/components/schemas/Vattu"
+          },
+          "soDhNavigation": {
+            "$ref": "#/components/schemas/Dondh"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Ctpnhap": {
+        "type": "object",
+        "properties": {
+          "soPn": {
+            "type": "string",
+            "nullable": true
+          },
+          "mavtu": {
+            "type": "string",
+            "nullable": true
+          },
+          "slnhap": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "dgnhap": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "mavtuNavigation": {
+            "$ref": "#/components/schemas/Vattu"
+          },
+          "soPnNavigation": {
+            "$ref": "#/components/schemas/Pnhap"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Ctpxuat": {
+        "type": "object",
+        "properties": {
+          "soPx": {
+            "type": "string",
+            "nullable": true
+          },
+          "mavtu": {
+            "type": "string",
+            "nullable": true
+          },
+          "slxuat": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "dgxuat": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "mavtuNavigation": {
+            "$ref": "#/components/schemas/Vattu"
+          },
+          "soPxNavigation": {
+            "$ref": "#/components/schemas/Pxuat"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Dondh": {
+        "type": "object",
+        "properties": {
+          "soDh": {
+            "type": "string",
+            "nullable": true
+          },
+          "ngayDh": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "maNcc": {
+            "type": "string",
+            "nullable": true
+          },
+          "ctdondhs": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Ctdondh"
+            },
+            "nullable": true
+          },
+          "maNccNavigation": {
+            "$ref": "#/components/schemas/Nhacc"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Nhacc": {
+        "type": "object",
+        "properties": {
+          "maNcc": {
+            "type": "string",
+            "nullable": true
+          },
+          "tenNcc": {
+            "type": "string",
+            "nullable": true
+          },
+          "diachi": {
+            "type": "string",
+            "nullable": true
+          },
+          "dienthoai": {
+            "type": "string",
+            "nullable": true
+          },
+          "dondhs": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Dondh"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Pnhap": {
+        "type": "object",
+        "properties": {
+          "soPn": {
+            "type": "string",
+            "nullable": true
+          },
+          "ngayNhap": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "soDh": {
+            "type": "string",
+            "nullable": true
+          },
+          "ctpnhaps": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Ctpnhap"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Pxuat": {
+        "type": "object",
+        "properties": {
+          "soPx": {
+            "type": "string",
+            "nullable": true
+          },
+          "ngayXuat": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "tenKh": {
+            "type": "string",
+            "nullable": true
+          },
+          "ctpxuats": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Ctpxuat"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Tonkho": {
+        "type": "object",
+        "properties": {
+          "namThang": {
+            "type": "string",
+            "nullable": true
+          },
+          "mavtu": {
+            "type": "string",
+            "nullable": true
+          },
+          "sldau": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "tongSln": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "tongSlx": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "slcuoi": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "mavtuNavigation": {
+            "$ref": "#/components/schemas/Vattu"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Vattu": {
+        "type": "object",
+        "properties": {
+          "mavtu": {
+            "type": "string",
+            "nullable": true
+          },
+          "tenVtu": {
+            "type": "string",
+            "nullable": true
+          },
+          "dvtinh": {
+            "type": "string",
+            "nullable": true
+          },
+          "phantram": {
+            "type": "number",
+            "format": "float",
+            "nullable": true
+          },
+          "ctdondhs": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Ctdondh"
+            },
+            "nullable": true
+          },
+          "ctpnhaps": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Ctpnhap"
+            },
+            "nullable": true
+          },
+          "ctpxuats": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Ctpxuat"
+            },
+            "nullable": true
+          },
+          "tonkhos": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Tonkho"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

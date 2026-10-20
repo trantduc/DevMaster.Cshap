@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Trung tâm DEVMaster\\học .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\AdminShop.csproj": {}
+    "D:\\Trung tâm DEVMaster\\học .NET\\MVC\\lab\\lab09ProductCRUD_Paging\\AdminShop\\AdminShop.csproj": {}
   },
   "projects": {
-    "D:\\Trung tâm DEVMaster\\học .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\AdminShop.csproj": {
+    "D:\\Trung tâm DEVMaster\\học .NET\\MVC\\lab\\lab09ProductCRUD_Paging\\AdminShop\\AdminShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Trung tâm DEVMaster\\học .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\AdminShop.csproj",
+        "projectUniqueName": "D:\\Trung tâm DEVMaster\\học .NET\\MVC\\lab\\lab09ProductCRUD_Paging\\AdminShop\\AdminShop.csproj",
         "projectName": "AdminShop",
-        "projectPath": "D:\\Trung tâm DEVMaster\\học .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\AdminShop.csproj",
+        "projectPath": "D:\\Trung tâm DEVMaster\\học .NET\\MVC\\lab\\lab09ProductCRUD_Paging\\AdminShop\\AdminShop.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Trung tâm DEVMaster\\học .NET\\MVC\\lab\\ProductCRUD_Paging\\AdminShop\\obj\\",
+        "outputPath": "D:\\Trung tâm DEVMaster\\học .NET\\MVC\\lab\\lab09ProductCRUD_Paging\\AdminShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
